@@ -1,4 +1,4 @@
-# Three.js Starter
+# Three.js for UE3DW19 - S3 by Etienne Leriche
 Courtesy of Gary Simon of https://www.youtube.com/watch?v=pUgWfqWZWmM&t=257s
 
 ## Setup
