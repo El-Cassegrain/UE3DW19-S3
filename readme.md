@@ -1,5 +1,5 @@
 # Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Courtesy of Gary Simon of https://www.youtube.com/watch?v=pUgWfqWZWmM&t=257s
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
